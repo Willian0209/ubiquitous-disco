@@ -18,3 +18,7 @@ git pull
 
 // envia as modificações locais para o repositório remoto (para utilizar esse, deve sempre descrever um ponto na história com o git commit)
 git push
+
+// serve para baixar o repositório a partir de outro dispositivo (por exemplo se estiver em viagem com outro aparelho)
+git clone (para utilizar, ir no repositório e clicar em code > selecionar HTTPS e copiar o link)
+por exemplo: git clone https://github.com/Willian0209/ubiquitous-disco.git
