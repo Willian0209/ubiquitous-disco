@@ -12,5 +12,3 @@ git commit -m "message here"
 
 // histórico de comimits do projeto
 git log
-
-teste
