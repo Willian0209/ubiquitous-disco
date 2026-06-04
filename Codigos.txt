@@ -12,3 +12,9 @@ git commit -m "message here"
 
 // histórico de comimits do projeto
 git log
+
+// puxa modificações do repositório remoto para o repositório local (sempre utilizar esse aqui antes do git push)
+git pull
+
+// envia as modificações locais para o repositório remoto (para utilizar esse, deve sempre descrever um ponto na história com o git commit)
+git push
